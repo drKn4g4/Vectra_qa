@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Playwright specific
+/playwright-report
+/test-results
+/snapshots
+
+# Package lock file
+/package-lock.json
+
+# Log files (optional, but often useful)
+*.log
+
+# Environment variables (optional, but good practice for sensitive data)
+.env
+.env.*
